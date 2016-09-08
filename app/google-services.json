@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346632887368",
+    "firebase_url": "https://avid-atlas-133002.firebaseio.com",
+    "project_id": "avid-atlas-133002",
+    "storage_bucket": "avid-atlas-133002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346632887368:android:c6d0bc7b53cbf969",
+        "android_client_info": {
+          "package_name": "com.tommy.the5ddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346632887368-daqludfdsfsh1h8vmmpq6vmj8gh8tgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08IuvO7eoETOEofbCLlFbSKAS6v6JLdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
