@@ -84,6 +84,10 @@ public class MainActivity extends Activity {
             public void onPageCommitVisible(WebView view, String url) {
                 swipeLayout.setRefreshing(false);
             }
+            @Override
+            public void onPageFinished(WebView view, String url){
+                swipeLayout.setRefreshing(false);
+            }
         });
         myWebView.setOnKeyListener(new View.OnKeyListener() {
             @Override
